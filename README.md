@@ -82,7 +82,7 @@ Prerequisites
 
 Step 1: Clone the Repository
 
-git clone https://github.com/yourusername/make_world_better.git  
+git clone https://github.com/allyelvis/make_world_better.git  
 cd make_world_better
 
 Step 2: Set Up the Backend
